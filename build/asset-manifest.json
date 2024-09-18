@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d70f4b77.css",
+    "main.js": "/static/js/main.95f21489.js",
+    "static/js/453.a50becb7.chunk.js": "/static/js/453.a50becb7.chunk.js",
+    "static/media/forest.jpg": "/static/media/forest.4ecbe256940113c9a145.jpg",
+    "static/media/Lato-Light.ttf": "/static/media/Lato-Light.bfc37ff1d5543ecd4ec6.ttf",
+    "static/media/Lato-Italic.ttf": "/static/media/Lato-Italic.0b4ed00316a7940bfc3f.ttf",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9919edff6283018571ad.ttf",
+    "static/media/Lato-LightItalic.ttf": "/static/media/Lato-LightItalic.d04e35ca3e0782895d4a.ttf",
+    "index.html": "/index.html",
+    "main.d70f4b77.css.map": "/static/css/main.d70f4b77.css.map",
+    "main.95f21489.js.map": "/static/js/main.95f21489.js.map",
+    "453.a50becb7.chunk.js.map": "/static/js/453.a50becb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d70f4b77.css",
+    "static/js/main.95f21489.js"
+  ]
+}
